@@ -1,0 +1,90 @@
+﻿
+so in this next segment i am going to describe context free gravity
+
+which are a very important formalism used within the poles
+
+and roll
+
+so first give a formal definition and
+
+so i should know is that context free grammars are not only using linguistics
+
+they're also a central importance in computer science both theoretical computer science and also in programming languages
+
+they play it very very important role so a contests we grammar has the following component so complex free gravity is a full to pull because this thing of an signal and
+
+where we have the following elements of this to paul so and is going to be a finite set of what we call non terminal symbols signal is going to be a finite set of water called terminal symbols
+
+our as a set of rules come back to this and a second
+
+finally is some member of and which is referred to as a distinguished or stalled simple in the grammar
+
+so we each of these rules takes the following form we have all the on the left hand re sighted the rule
+
+essex who has to be a non terminal and then on the right hand side of the rule
+
+we have a sequence of items why one through i am way each of these wise can either be a non terminal and or it can be nellum
+
+mt of sigmar notice that and could beauty
+
+there are so actually this right hand side of the rule could just be but we often right is epsilon which is the empty sequence of sequence slowing lengths hero
+
+so that's a very abstract definition let me give you a concrete examples
+
+why
+
+so here is an extremely simple grammar
+
+so for english but his useful and illustrating the definition that i to show you
+
+so i have before elements of the context re grammy here and as sigma or and are so in in this case as they said as a finite he said
+
+of what are called non terminals so we have some bowls like that
+
+they see appearing in those palace trees i showed you earlier and that is we also have please
+
+each things like beat the feet and and i am these are actually going to people's of speech in a grammar
+
+they're distinguish stop stop simple is simply going to be
+
+and then finally we have a said of words in the language so sigma or my consist of the following a set of words which we have a very small the camp or hear more mystic grammar would they have a much much logic for cab barry
+
+and sorry i finally we have a set of rules so here are the rules in this particular example
+
+grammar and as i said on the left hand side of the rule i we see a non terminal for example less
+
+with or empty emptier
+
+and so on and on the right hand side of beat rule i see a sequence of zero war symbol to reach symbols
+
+would be any a month for an early sigma so in particular have less goes
+
+here it goes to the idea because it and so on and so on
+
+over here i have rules we're actually the left hand side is a single simple for example the eye and the right hand side is a word for example sleeps
+
+so this is one simple example grammar later in the class will took a lot more
+
+these different symbols mean but just briefly s basic stance for sentence fee as an appreciation for the praise and peers and now praise peep here's a professional phrase and so on and so on
+
+[SMACK]
+
+so that's a formal definition of context for grammars and also an example
+
+particular context for grammar the next crucial
+
+and it is going to be the idea of a derivation will more specific more specifically what's called a left most of
+
+so a derivation is a sequence of strings
+
+to on through yes and where the speakers have strings has the following property so as one has to be equal to this distinguished stop simple in grammar
+
+as in has to be made up of elements of singer learn so a star is just the set of all possible
+
+so strings which could be derived from sigma or so if i have sigar is the
+
+then
+
+lessig mr are includes strains like just an empty string absalom
+
+will the earth
