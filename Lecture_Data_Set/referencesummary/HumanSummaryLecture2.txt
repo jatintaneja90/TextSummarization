@@ -1,0 +1,3 @@
+Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow
+The AWS Cloud provides a broad set of infrastructure services, such as computing power, storage options, networking and databases, delivered as a utility: on-demand, available in seconds, with pay-as-you-go pricing. 
+Amazon web services gives you access to the resources you need to create sophisticated scaleable applications of any size or shape reinvent the way you work with it with amazon web services
