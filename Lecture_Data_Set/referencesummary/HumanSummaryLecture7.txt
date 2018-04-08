@@ -1,0 +1,5 @@
+Amazon S3 is object storagebuilt to store and retrieve any amount of data from anywhere – web sites and mobile apps, corporate applications, and data from IoT sensors or devices. 
+It is designed to deliver 99.99% durability, and stores data for millions of applications used by market leaders in every industry with comprehensive security and compliance capabilities
+It gives customers flexibility in the way they manage data for cost optimization, access control, and compliance
+S3 provides query-in-place functionality, allowing you to run powerful analytics directly on your data at rest in S3
+This is the most supported cloud storage service available, with integration from the largest community of third-party solutions, systems integrator partners, and other AWS services.

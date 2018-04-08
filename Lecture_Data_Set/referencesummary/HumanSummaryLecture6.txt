@@ -1,0 +1,3 @@
+User experience design of your website or application should be:Credible Accessible Usable Desirable And Valuable.
+There are 7 ux design principles: Design real-time, Know your audience, Keep it simple and consistent,Implement a visual hierarchy ,Provide instant and intuitive feedback,Simplify your forms Don’t confuse your users
+Following these 7 principles can help one build a better user experience for their application and website

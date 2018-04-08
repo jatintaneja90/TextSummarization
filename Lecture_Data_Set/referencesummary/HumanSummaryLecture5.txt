@@ -1,0 +1,7 @@
+Solar system is located in the milky way's Orion star cluster out of which only 15% star host planetary system
+Revolving around sun are 8 Planets which are divided into 2 categories: Terrestrial and  Jovian
+Each category is having 4 planets
+Planets ( mercury, venus, earth, Mars) in terrestrial category are comparitively smaller in size than the planets( Jupiter, Saturn, Uranus, Neptune) in Jovian category
+Forbidding the terrestrial planets is the asteroid belt which contains  Rocky objects between Mars and Jupiter
+Kuiper belt can be viewed as a second Asteroid Belt, but located at the outskirts of the solar system
+The Kuiper Belt objects—having formed at large distances from the Sun—are rich in water ice and other volatile chemical compounds.

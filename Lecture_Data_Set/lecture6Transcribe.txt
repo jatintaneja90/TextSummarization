@@ -1,0 +1,11 @@
+Hi are you unable to convert visitors on your website ? 
+Are you wondering about the possible pain points well apart for many small functional issues, user  design or usability is one major problem that hampers conversion and retention user experience design of your website or application should be usable, accessible, desirable, incredible and value 
+let's quickly understand seven pragmatic ux techniques for a great user experience 
+one design real time follow modern trends such as micro interactions, mobile first material design, content, focused design and other maya concepts to know your audience, match your lay out font styles and overall design aesthetics with your audiences, expectations and personality
+Three keep it simple and consistent creates simple, interactive and easy to understand navigation maintain consistency across different sections of your web application
+four implement a visual hierarchy use bigger elements contrasting background where white space around elements that users should quickly notice
+Five provide instant and intuitive feedback use animation to convey important information to users like a simple message when something is loading or prompting that a field is incorrectly filled
+Six simplify your forms don't keep forms if not required and if you have forms than keep field simple and limited 
+seven don't confuse your users don't ask your users to perform multiple actions on a single page this will lead to confusion and chaos, which will ultimately affect the experience 
+having followed the above techniques, you will be able to create unparalleled customer experiences and flawless user interfaces for your web sites or applications
+
